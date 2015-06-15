@@ -1,3 +1,11 @@
+'''Apenas para informar que este bot não é de minha autoria,
+encontrei o mesmo na internet para estudos.
+
+Just to inform you that this bot is not of my own,
+I found it on the internet for study.
+
+'''
+
 from socket import socket, AF_INET, SOCK_STREAM
 from threading import Thread
 import time
